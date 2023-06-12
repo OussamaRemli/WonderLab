@@ -2,7 +2,7 @@
 
 session_start();
 
-define('ROOT_URL','http://localhost/wonderlab/');
+define('ROOT_URL','http://localhost/wonderlab-master/');
 
 // se connecter a la base de données
 
