@@ -32,7 +32,7 @@ WonderLab is a scientific blogging platform aimed at facilitating the disseminat
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/wonderlab.git
+   https://github.com/OussamaRemli/WonderLab.git
 2. **Clone the Repository**:
    Import the included SQL file to create the necessary tables.
 3. **Database Configuration**:
