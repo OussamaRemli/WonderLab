@@ -33,3 +33,10 @@ WonderLab is a scientific blogging platform aimed at facilitating the disseminat
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/wonderlab.git
+2. **Clone the Repository**:
+   Import the included SQL file to create the necessary tables.
+3. **Database Configuration**:
+   Configure a local web server with PHP and MySQL (e.g., XAMPP or WAMP) for local hosting, or use a compatible remote server.
+4. **Server Setup:**:
+   Access WonderLab by opening the index file in your browser.
+
