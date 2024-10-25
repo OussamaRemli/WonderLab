@@ -1,50 +1,35 @@
 # WonderLab
-Le présent rapport décrit le site web "Wonderlab", un projet collaboratif réalisé par Oussama Remli, Oustad 
-Mohammed et Yassine Ait BenAddi. Wonderlab est un site de blogging scientifique conçu pour permettre aux 
-utilisateurs de visualiser et de publier des articles dans différents domaines scientifiques. 
-Ce rapport met en évidence les fonctionnalités principales du site ainsi que les améliorations futures envisagées.
 
-Description du site web :
-Wonderlab est un site web développé en utilisant les langages HTML, CSS, JavaScript et PHP. Il se concentre
-sur la diffusion d'articles scientifiques dans divers domaines, offrant ainsi aux utilisateurs une plateforme 
-pour partager et explorer des connaissances scientifiques.
+**WonderLab** is a scientific blogging website designed to offer users a platform to explore and share scientific knowledge. This collaborative project was developed by Oussama Remli, Oustad Mohammed, and Yassine Ait BenAddi.
 
-Fonctionnalités clés :
-a) Visualisation des articles : Les utilisateurs peuvent accéder au site et parcourir les dernières actualités 
-scientifiques. Le site propose également des catégories spécifiques permettant aux utilisateurs de trouver des 
-articles dans des domaines qui les intéressent particulièrement.
+## Table of Contents
 
-b) Publication d'articles : Les utilisateurs peuvent créer un compte et publier leurs propres articles 
-scientifiques. Cela leur permet de partager leurs connaissances et leurs découvertes avec la communauté de
- Wonderlab.
+1. [Overview](#overview)
+2. [Key Features](#key-features)
+3. [Technologies Used](#technologies-used)
+4. [Installation and Deployment](#installation-and-deployment)
 
-c) Recherche de sujets : Wonderlab offre une fonctionnalité de recherche permettant aux utilisateurs de trouver 
-rapidement des articles sur des sujets spécifiques. Cette fonctionnalité facilite la découverte de contenus 
-pertinents.
+---
 
-d) Gestion des comptes utilisateurs : Les utilisateurs peuvent créer un compte sur Wonderlab, ce qui leur permet 
-d'accéder à des fonctionnalités supplémentaires. Ils peuvent également modifier leurs informations personnelles et
-gérer leur profil.
+### Overview
 
-Perspectives d'améliorations futures :
-Dans le but d'améliorer constamment l'expérience des utilisateurs, plusieurs améliorations sont envisagées pour 
-le site Wonderlab :
+WonderLab is a scientific blogging platform aimed at facilitating the dissemination and exchange of scientific content across multiple domains. Built with HTML, CSS, JavaScript, and PHP, it offers a simple and intuitive interface for reading and publishing articles. WonderLab serves as a foundation for a dynamic scientific community, allowing science enthusiasts to both learn and share discoveries.
 
-a) Système de commentaires : La possibilité de laisser des commentaires sur les articles permettrait aux 
-utilisateurs de partager leurs réflexions et d'interagir avec d'autres passionnés de science.
+### Key Features
 
-b) Interaction entre utilisateurs : En ajoutant des fonctionnalités sociales, tels que des profils d'utilisateurs,
- une messagerie interne ou des forums de discussion, Wonderlab pourrait favoriser les échanges et les discussions 
- entre les membres.
+- **Article Viewing**: Users can browse the latest scientific articles organized by category, making it easy to access specific information of interest.
+- **Article Publishing**: Registered users can create and publish articles, sharing their knowledge with the WonderLab community.
+- **Topic Search**: A powerful search feature enables users to find articles by keywords, facilitating navigation across a wide range of scientific content.
+- **User Account Management**: Creating a user account unlocks additional features, such as profile management and article publishing.
 
-c) Notifications : L'ajout d'un système de notifications informerait les utilisateurs des nouveaux articles, des
- commentaires ou des interactions liées à leurs publications.
+### Technologies Used
 
-d) Amélioration de l'interface utilisateur : Une interface utilisateur conviviale et intuitive pourrait être 
-développée pour faciliter la navigation et rendre l'expérience utilisateur plus agréable.
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL (or another compatible database management system)
 
-Le site web Wonderlab, est une plateforme de blogging scientifique qui permet aux utilisateurs de partager et
- d'explorer des articles dans divers domainesscientifiques. Les fonctionnalités clés comprennent la visualisation
-et la publication d'articles, la recherchede sujets et la gestion des comptes utilisateurs. Des améliorations
-futures sont prévues pour offrir une expérience encore meilleure aux utilisateurs, notamment en intégrant des 
-fonctionnalités sociales,des notifications et une interface utilisateur améliorée.
+### Installation and Deployment
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/wonderlab.git
