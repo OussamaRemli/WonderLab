@@ -28,7 +28,7 @@ WonderLab is a scientific blogging platform aimed at facilitating the disseminat
 - **Backend**: PHP
 - **Database**: MySQL
 
-### Installation and Deployment
+### Installation
 
 1. **Clone the Repository**:
    ```bash
