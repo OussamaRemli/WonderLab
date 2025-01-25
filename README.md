@@ -7,7 +7,7 @@
 1. [Overview](#overview)
 2. [Key Features](#key-features)
 3. [Technologies Used](#technologies-used)
-4. [Installation and Deployment](#installation-and-deployment)
+4. [Installation](#installation)
 
 ---
 
@@ -26,7 +26,7 @@ WonderLab is a scientific blogging platform aimed at facilitating the disseminat
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
-- **Database**: MySQL (or another compatible database management system)
+- **Database**: MySQL
 
 ### Installation and Deployment
 
