@@ -1,6 +1,6 @@
 # WonderLab
 
-**WonderLab** is a scientific blogging website designed to offer users a platform to explore and share scientific knowledge. This collaborative project was developed by Oussama Remli, Oustad Mohammed, and Yassine Ait BenAddi.
+**WonderLab** is a scientific blogging website designed to offer users a platform to explore and share scientific knowledge.
 
 ## Table of Contents
 
